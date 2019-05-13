@@ -200,3 +200,13 @@ $RECYCLE.BIN/
 /build
 /captures
 .externalNativeBuild
+
+
+# My Own Ignores
+*.gradle
+*.properties
+**/gradlew
+**/gradlew.*
+**/signature.jks
+**/google-services.json
+
